@@ -312,19 +312,29 @@ index.html
 using any modern browser.
 
 ---
+# 🏠 Home Page
+
+<p align="center">
+  <img src="images/home.png.png" alt="Home Page" width="800">
+</p>
+
+---
 
 # 📸 Sample Input
 
-
+<p align="center">
+  <img src="images/calculator.png.png" alt="Calculator Input" width="800">
+</p>
 
 ---
 
 # 📈 Sample Output
 
-```
+<p align="center">
+  <img src="images/result.png.png" alt="Calculator Output" width="800">
+</p>
 
-```
-
+---
 ---
 
 # 🎯 Future Enhancements
